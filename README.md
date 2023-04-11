@@ -1,2 +1,2 @@
 # gitsearchrepos.github.io
-## JSCore 4.3.7
+## Решение задачи JSCore 4.3.7
